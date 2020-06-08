@@ -1,0 +1,2 @@
+break /home/kali/Desktop/Challenges/BufferOverflow/wisdom-alt/wisdom-alt.c:30
+
