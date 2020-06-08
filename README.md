@@ -1,4 +1,4 @@
-# Software_Security_Challenges
+# Software Security Challenges
 ## Buffer Overflow Challenge
 #### → [Buffer Overflow](BufferOverflow)
 ## Fuzzing Challenge
